@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
-Fixed one issue with screen reader accessibility.
-Got YACS *almost* fully running on my computer.
+1. Fixed one issue with screen reader accessibility.
+2. Got YACS *almost* fully running on my computer.
 
 ## This Week's Plan
 
