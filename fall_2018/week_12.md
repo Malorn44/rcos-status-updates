@@ -31,6 +31,11 @@ This semester, I mainly worked on the front end of YACS. Some of my contribution
 - Working on the typescript implementation for the new version of the YACS API with Ada. This was my first experience with typescript as most if not all of the accessibility issues I addressed in YACS Admin could be fixed with CSS or HTML tweaks.
 - Working on the YACS redesign. This encompassed most of my contributions during the second half of the semester and was the first thing I started working on after finishing with YACS Admin. Most of my contributions involved adding or modifying how certain front-end elements functioned (most notably, the sidebar).
 
+Repositories I've Commited To:
+- https://github.com/Malorn44/rcos-status-updates
+- https://github.com/Malorn44/yacs/tree/feature/ui-overhaul
+- https://github.com/Malorn44/yacs-admin (I also have changes in several branches under this)
+
 ### Plans for the future
 
 Being in RCOS this semester was a great experience and I really regret not joining during my Freshman this year.
