@@ -1,9 +1,10 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+- Created a mockup design of a new user interface for the YACS sidebar. The current sidebar isn't visible enough, with only a single small arrow alerting people to its existance. The new proposed design is to have a literal side 'bar' that a user can click on.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+- Added the 'theme-text-heavy' class to the 'Topics' button in the header. The button was a different appearance from the 'Schedule' button next to it and it looked ugly :(
+
+- Set up times for two weekly YACS meetings, one on Monday and one on Wednesday, so that every member of the team can meet weekly to discuss plans.
 
 ## This Week's Plan
 
