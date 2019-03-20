@@ -6,7 +6,7 @@
   - modified how the sidebar is shown by creating a sidebar-close and sidebar-open class
 - Added animations
   - sidebar opens like a "drawer" with the sidebar toggle button coming out with the sidebar
-    - on mobile the button stays in place to conserve due to a limited screen width
+    - on mobile the button stays in place to due to a limited screen width
   - animations implemented using "transition" and resizing the sidebar content container
   - fixed an issue with mobile animations where the sidebar was opening from the center of the screen instead of from the left
 - modified the sidebar alert so that it doesn't wrap text. Makes the animation look nicer
@@ -17,7 +17,7 @@
   - find what is causing the issue
   - find out how to fix the issue
  - Work on getting YACS release 0.12 by helping the team out wherever I can
-  - some of the last issues ran into some hitches.
+   - some of the last issues ran into some hitches.
 
 ## Anything Blocking?
 
